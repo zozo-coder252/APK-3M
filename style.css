@@ -1,0 +1,26 @@
+::-webkit-scrollbar{
+    width: 0px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: transparent;
+  border-radius: 20px;
+}
+
+
+body{
+  margin: 0%;
+  padding: 0%;
+  background-color: ;
+  
+
+
+}
+
+input,label{
+    font-family: Arial Black;
+}
+
+label{
+    color: white;
+}
